@@ -1,0 +1,4 @@
+Model,Best CV ROC-AUC,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC-AUC,Best Parameters
+xgboost,0.8486300395633444,0.8048261178140526,0.6689419795221843,0.5240641711229946,0.5877061469265368,0.8476310418765661,"{'classifier__subsample': 0.8, 'classifier__scale_pos_weight': 1, 'classifier__n_estimators': 200, 'classifier__min_child_weight': 3, 'classifier__max_depth': 3, 'classifier__learning_rate': 0.05, 'classifier__colsample_bytree': 1.0}"
+random_forest,0.8462675629046664,0.7679205110007097,0.5470941883767535,0.7299465240641712,0.6254295532646048,0.8418145650882223,"{'classifier__n_estimators': 400, 'classifier__min_samples_leaf': 5, 'classifier__max_features': 'sqrt', 'classifier__max_depth': None, 'classifier__class_weight': 'balanced'}"
+logistic_regression,0.8459390177818094,0.8048261178140526,0.6551724137931034,0.5588235294117647,0.6031746031746031,0.8412384716732543,"{'classifier__class_weight': None, 'classifier__C': 10}"
