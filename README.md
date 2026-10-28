@@ -132,3 +132,8 @@ The app loads the saved model from `models/random_forest_tuned.joblib`. Ensure t
 ## Tools and Technologies
 
 Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn, Streamlit, and joblib.
+
+
+<img width="1920" height="1022" alt="Screenshot 2026-10-25 172547" src="https://github.com/user-attachments/assets/3160642a-2f8e-4c37-8b30-7e5145c2fb48" />
+<img width="1920" height="1025" alt="Screenshot 2026-10-25 172604" src="https://github.com/user-attachments/assets/65dc827f-b892-4531-b198-c4bb58bc9d3e" />
+
